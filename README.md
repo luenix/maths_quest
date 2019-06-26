@@ -1,7 +1,7 @@
 # maths_quest
 A text based adventure based on solving maths problems.
 
-Solve problems of increasing difficulty as you desend the levels of a dungeon. Decimals values are rounded to 2 decimal places. The game is pretty self explanitory.
+Solve problems of increasing difficulty as you desend the levels of a dungeon. Decimals values are rounded to 2 decimal places.
 
 This is my first upload to Github, and my first shared project, so any feedback is greatly appreciated.
 
